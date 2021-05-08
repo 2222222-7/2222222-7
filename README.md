@@ -1,5 +1,6 @@
 # Twitter＆discord
 - [Twitter](https://mobile.twitter.com/dai_12345678)
+ ID:dai_12345678
 
 - discord_name:dai#1398
 <a href="https://github.com/anuraghazra/github-readme-stats">
