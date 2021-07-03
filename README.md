@@ -4,5 +4,5 @@
 
 - discord_name:2222222#1398
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dai-12345678&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=2222222-7&count_private=true&show_icons=true" />
 </a>
